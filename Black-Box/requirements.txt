@@ -1,0 +1,13 @@
+openai>=1.40.0
+numpy>=1.24.0
+Pillow>=10.0.0
+matplotlib>=3.8.0
+PyYAML>=6.0.0
+torch==2.8.0
+torchvision==0.23.0
+transformers>=4.57
+diffusers
+accelerate
+safetensors
+lpips>=0.1.4
+datasets

@@ -1,0 +1,31 @@
+model:
+  model_path: ./sd
+  torch_dtype: float16
+  device: cuda
+  local_files_only: false
+  enable_model_cpu_offload: false
+  low_cpu_mem_usage: true
+
+data:
+  input_path: ./photo
+  max_samples: null
+  recursive: true
+  image_suffixes: [".jpg", ".jpeg", ".png", ".webp", ".bmp"]
+
+inference:
+  seed: 0
+  seed_stride: 1
+  height: null
+  width: null
+  guidance_scale: 7.5
+  image_guidance_scale: 1.5
+  num_inference_steps: 50
+  strength: null
+  negative_prompt: ""
+  free_form_mask: true
+  max_sequence_length: null
+
+output:
+  output_dir: ./results
+  run_name: null
+  save_round_images: true

@@ -1,0 +1,47 @@
+{
+  "api": {
+    "base_url": "https://dashscope.aliyuncs.com/api/v1",
+    "api_key_env": "",
+    "model": "qwen-image-2.0",
+    "timeout_seconds": 180,
+    "size": null,
+    "quality": null,
+    "dashscope_endpoint": "/services/aigc/multimodal-generation/generation",
+    "dashscope_parameters": {
+      "n": 1
+    }
+  },
+  "run": {
+    "rounds": 10,
+    "input_image": "data/paintings/scenery/006.png",
+    "results_dir": "results",
+    "run_name": null
+  },
+  "prompts": {
+    "per_round": [
+      "Keep the image unchanged.",
+      "Keep the image unchanged.",
+      "Keep the image unchanged.",
+      "Keep the image unchanged.",
+      "Keep the image unchanged.",
+      "Keep the image unchanged.",
+      "Keep the image unchanged.",
+      "Keep the image unchanged.",
+      "Keep the image unchanged.",
+      "Keep the image unchanged."
+    ]
+  },
+  "vae": {
+    "enabled": true,
+    "model_type": "autoencoder_KL",
+    "model_path": "models/sd_vae",
+    "device": "cuda",
+    "dtype": "float16"
+  },
+  "intervention": {
+    "enabled": true,
+    "kernel_size": 9,
+    "mean_decay": 0.85,
+    "std_decay": 0.85
+  }
+}
