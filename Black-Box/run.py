@@ -32,7 +32,7 @@ Output Format: MUST strictly be JSON. Example: {"score": 7, "reason": "Successfu
         content = content.replace("```json", "").replace("```", "").strip()
         return json.loads(content)
     except Exception as e:
-        print(f"⚠️ VLM Evaluation Failed: {e}")
+        print(f"VLM Evaluation Failed: {e}")
         return {"score": 0, "reason": "API call failed or parsing error"}
 
 class ConfigDict(dict):
@@ -70,11 +70,9 @@ def main():
     results_root = Path("results") / global_run_name
     report_path = results_root / f"{global_run_name}_report.json"
     
-    # ==========================================
-    # 🚨 断点续传核心逻辑：先读取历史进度
-    # ==========================================
+    # 断点续传
     if report_path.exists():
-        print(f"\n📦 检测到历史报告，启动断点续传: {report_path.name}")
+        print(f"\n检测到历史报告，启动断点续传: {report_path.name}")
         with open(report_path, 'r', encoding='utf-8') as f:
             final_summary_report = json.load(f)
     else:
@@ -86,7 +84,7 @@ def main():
         for cat in categories:
             if cat not in final_summary_report[ds]:
                 final_summary_report[ds][cat] = {}
-            print(f"\n🚀 Start Processing: [{ds}] - [{cat}]")
+            print(f"\nStart Processing: [{ds}] - [{cat}]")
             
             cat_dir = Path(args.data_dir) / ds / cat
             if not cat_dir.exists(): continue
@@ -96,11 +94,9 @@ def main():
             for img_path in images:
                 sample_name = img_path.stem
                 
-                # ==========================================
-                # 🚨 如果在报告里查到这张图，直接跳过！
-                # ==========================================
+                # 如果在报告里查到这张图直接跳过
                 if sample_name in final_summary_report[ds][cat]:
-                    print(f"  ⏭️ {sample_name} 已经处理过，直接跳过！")
+                    print(f"{sample_name} 已经处理过，直接跳过！")
                     continue
                 
                 json_path = cat_dir / f"{sample_name}.json"
@@ -133,9 +129,7 @@ def main():
                     final_config.api.dashscope_endpoint = "/services/aigc/multimodal-generation/generation"
                     final_config.api.dashscope_parameters = {"n": 1}
 
-                # ==========================================
-                # 🚨 风控拦截防弹衣：失败立刻跳过并存档
-                # ==========================================
+                # 失败跳过并存档
                 try:
                     run_result = run_inference(final_config)
                 except Exception as e:
@@ -153,11 +147,11 @@ def main():
 
                 manifest_path = img_run_dir / "manifest.json"
                 if args.mode == "longchain":
-                    print(f"  🤖 Requesting Qwen-VL for VLM Score...")
+                    print(f"Requesting Qwen-VL for VLM Score...")
                     vlm_res = vlm_evaluate(args.qwen_api_key, str(base_img), str(final_img), prompts, args.mode)
-                    print(f"  ✅ {sample_name} finished! VLM Score: {vlm_res.get('score', 0)}")
+                    print(f"{sample_name} finished! VLM Score: {vlm_res.get('score', 0)}")
                 else:
-                    print(f"  ⏭️ 模式为 {args.mode}，跳过 VLM 评测，留存给后续 DINO 处理。")
+                    print(f"模式为 {args.mode}，跳过 VLM 评测，留存给后续 DINO 处理。")
                     vlm_res = {"score": "N/A", "reason": f"Skipped for {args.mode} mode. Awaiting DINO."}
                 
                 final_summary_report[ds][cat][sample_name] = {
@@ -168,7 +162,7 @@ def main():
                 with open(report_path, 'w', encoding='utf-8') as f:
                     json.dump(final_summary_report, f, indent=4, ensure_ascii=False)
 
-    print(f"\n🎉 完美收工！报告路径: {report_path}")
+    print(f"\n完美收工！报告路径: {report_path}")
 
 if __name__ == "__main__":
     main()

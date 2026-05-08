@@ -3,7 +3,6 @@ from pathlib import Path
 import numpy as np
 
 def main():
-    # 🚨 请核对路径，确保能找到这两个总表
     runs_to_process = [
         {"name": "Qwen", "report_path": "results/qwen_cycle_vae_off/qwen_cycle_vae_off_report.json"},
         {"name": "Seedream", "report_path": "results/seedream_cycle_vae_on/seedream_cycle_vae_on_report.json"}
@@ -16,7 +15,6 @@ def main():
     print("📊 核心 36 项均值数据导出 (Markdown 格式)")
     print("="*80 + "\n")
     
-    # 打印表头
     print("| 模型 (Model) | 数据集 (Dataset) | 类别 (Category) | 均值 L1 Loss (越小越好) | 均值 SSIM (越大越好) | 均值 LPIPS (越小越好) |")
     print("|---|---|---|---|---|---|")
     
@@ -25,7 +23,7 @@ def main():
         report_file = Path(run["report_path"])
         
         if not report_file.exists():
-            print(f"| {model_name} | ⚠️ 报告未找到 | - | - | - | - |")
+            print(f"| {model_name} |  报告未找到 | - | - | - | - |")
             continue
             
         with open(report_file, 'r', encoding='utf-8') as f:
@@ -64,7 +62,7 @@ def main():
                         if "ssim_vs_base" in row: ssim_all.append(float(row["ssim_vs_base"]))
                         if "lpips_vs_base" in row: lpips_all.append(float(row["lpips_vs_base"]))
                 
-                # 计算该类的总体均值，保留 4 位小数以便于论文展示
+                # 计算该类的总体均值，保留 4 位小数
                 mean_l1 = np.mean(l1_all) if l1_all else 0
                 mean_ssim = np.mean(ssim_all) if ssim_all else 0
                 mean_lpips = np.mean(lpips_all) if lpips_all else 0
