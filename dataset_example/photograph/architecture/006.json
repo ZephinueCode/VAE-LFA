@@ -1,0 +1,28 @@
+{
+  "image": "006.jpg",
+  "category": "architecture",
+  "cycle": [
+    "Add a bright red fabric awning extending from the wooden balcony on the left side.",
+    "Remove the bright red fabric awning from the wooden balcony on the left side.",
+    "Hang a row of colorful paper lanterns across the alleyway connecting the left and right buildings.",
+    "Remove the row of colorful paper lanterns across the alleyway connecting the left and right buildings.",
+    "Place a large ceramic pot with green ferns at the bottom right corner near the brick wall.",
+    "Remove the large ceramic pot with green ferns from the bottom right corner near the brick wall.",
+    "Attach a black metal signpost with a directional arrow to the wall on the left foreground.",
+    "Remove the black metal signpost with a directional arrow from the wall on the left foreground.",
+    "Add a golden circular emblem mounted on the wooden pillar on the right side.",
+    "Remove the golden circular emblem from the wooden pillar on the right side."
+  ],
+  "long_chain": [
+    "Change the lighting to a warm golden hour sunset, casting long, dramatic shadows across the narrow street and highlighting the texture of the wooden carvings.",
+    "Add vibrant autumn foliage, with orange and red maple leaves climbing the ivy-covered walls in the center and scattering across the stone pavement.",
+    "Introduce a soft, low-hanging morning fog that obscures the feet of the crowd in the foreground and softens the details of the distant tiled roofs.",
+    "Apply a watercolor painting style to the entire scene, softening the edges of the buildings and the crowd while preserving the distinct red lanterns and wooden structures.",
+    "Shift the color grading to a cool, cinematic blue-teal tone, making the shadows deeper and giving the historic alleyway a mysterious, twilight atmosphere.",
+    "Change the weather to a heavy rainstorm, with rain streaks visible in the air and the ground becoming wet and reflective, mirroring the red lanterns.",
+    "Replace the natural daylight with a night setting where the red lanterns glow intensely bright, illuminating the wet cobblestones and the backs of the people in the crowd.",
+    "Add glowing neon accents in cyan and magenta to the traditional wooden window frames and shop signs, creating a subtle cyberpunk fusion with the ancient architecture.",
+    "Cover the traditional grey tiled roofs in the background with a layer of fresh white snow, and change the falling rain to large, slow-moving snowflakes.",
+    "Transform the sky visible between the rooftops into a vibrant aurora borealis with green and purple lights, casting a magical, otherworldly glow over the snowy street scene."
+  ]
+}

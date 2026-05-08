@@ -1,0 +1,28 @@
+{
+  "image": "005.jpg",
+  "category": "architecture",
+  "cycle": [
+    "Change the color of the large white arched bridge to bright red.",
+    "Restore the color of the large arched bridge to its original white.",
+    "Change the river water to a vibrant deep blue color.",
+    "Restore the river water to its original natural grey-green color.",
+    "Change the mountain in the background to be covered in white snow.",
+    "Restore the mountain in the background to its original green and rocky appearance.",
+    "Change the sky to a dramatic sunset with orange and purple hues.",
+    "Restore the sky to its original bright blue with fluffy white cumulus clouds.",
+    "Change the trees on the left riverbank to have autumn orange and yellow foliage.",
+    "Restore the trees on the left riverbank to their original lush green summer foliage."
+  ],
+  "long_chain": [
+    "Change the season to autumn, turning the trees along the riverbanks to shades of orange and red, and shift the lighting to a warm golden hour sunset.",
+    "Transform the sky into a dramatic twilight with deep purple and pink hues, adding scattered stars visible above the mountain.",
+    "Make the river water reflect the twilight sky with a glassy, calm surface, adding subtle ripples near the bridge pillars.",
+    "Illuminate the windows of the apartment buildings on the right and left with warm yellow artificial light, and turn on streetlights along the riverside path.",
+    "Add a layer of low-hanging mist hovering just above the river surface, partially obscuring the base of the bridge and the riverbanks.",
+    "Apply an impressionist oil painting style to the entire scene, emphasizing visible brushstrokes on the clouds and the mountain while maintaining the bridge's structure.",
+    "Shift the overall color palette to a cool, monochromatic blue tone, resembling a moonlit night scene, while keeping the warm lights of the buildings as contrasting accents.",
+    "Cover the mountain peak and the riverbanks with a layer of fresh white snow, and add gently falling snowflakes throughout the scene.",
+    "Apply a cinematic anamorphic lens effect with slight vignetting at the corners and a teal-and-orange color grade, enhancing the contrast between the snowy banks and the dark water.",
+    "Transform the city buildings into futuristic neon-lit structures with holographic advertisements, and change the bridge lights to bright cyan LED strips, creating a sci-fi atmosphere while keeping the mountain in the background."
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "image": "002.jpg",
+  "category": "scenery",
+  "cycle": [
+    "Add a large red hot air balloon floating in the upper left part of the sky.",
+    "Remove the large red hot air balloon from the upper left part of the sky.",
+    "Add a white commercial airplane flying diagonally across the center of the sky.",
+    "Remove the white commercial airplane from the center of the sky.",
+    "Add a small black bird silhouette flying just above the mountain ridge on the right side.",
+    "Remove the small black bird silhouette from above the mountain ridge on the right side.",
+    "Add a waving flag on a pole on the roof of the white building in the center foreground.",
+    "Remove the waving flag and pole from the roof of the white building in the center foreground.",
+    "Add a tall street lamp with a glowing yellow light in the bottom right foreground.",
+    "Remove the tall street lamp with the glowing yellow light from the bottom right foreground."
+  ],
+  "long_chain": [
+    "Intensify the colors of the sky clouds to vibrant magenta and deep orange, increasing the contrast and texture of the cloud formations.",
+    "Cover the silhouetted mountain range and the rooftops of the buildings with a thick layer of white snow.",
+    "Add a layer of dense, white fog rolling over the foreground buildings and settling at the base of the mountains.",
+    "Transition the sky to a deep indigo night sky, adding a bright crescent moon and scattered stars visible through the cloud gaps.",
+    "Replace the dark foreground ground with a calm, dark lake that reflects the moonlight and the silhouettes of the buildings.",
+    "Illuminate the windows of the buildings with warm, glowing yellow light, creating small points of brightness against the dark structures.",
+    "Apply a thick impasto oil painting style to the entire image, giving the clouds and mountains visible brushstroke textures.",
+    "Shift the overall color grading to a monochromatic cool blue tone, enhancing the feeling of a cold winter night.",
+    "Add falling snowflakes throughout the scene and frost patterns on the edges of the image frame.",
+    "Transform the sky into a swirling galaxy nebula with purple and blue cosmic dust, while keeping the mountain and building silhouettes intact at the bottom."
+  ]
+}

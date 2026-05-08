@@ -1,0 +1,28 @@
+{
+  "image": "008.jpg",
+  "category": "architecture",
+  "cycle": [
+    "Hang red vertical banners on the tall lamp posts in front of the circular building",
+    "Remove the red vertical banners from the tall lamp posts in front of the circular building",
+    "Place a large bronze statue of a horse in the center of the paved plaza in the foreground",
+    "Remove the large bronze statue of a horse from the center of the paved plaza in the foreground",
+    "Add rows of potted yellow flowers along the edges of the wide stone stairs leading to the building",
+    "Remove the rows of potted yellow flowers from the edges of the wide stone stairs leading to the building",
+    "Attach a large white banner with blue text to the facade of the rectangular building on the left",
+    "Remove the large white banner with blue text from the facade of the rectangular building on the left",
+    "Set up a small red information kiosk near the bottom left corner of the stairs",
+    "Remove the small red information kiosk from near the bottom left corner of the stairs"
+  ],
+  "long_chain": [
+    "Change the lighting to a warm golden-hour sunset, casting long, soft shadows across the plaza and stairs, while deepening the blue of the sky.",
+    "Add falling orange and red autumn leaves scattered across the stone stairs and the plaza, and change the trees on the right to have vibrant fall foliage.",
+    "Transform the sky into a dramatic twilight gradient with deep purples and oranges, and turn on warm, glowing lights inside the diamond-shaped windows of the building.",
+    "Apply a watercolor painting style to the entire scene, softening the edges of the building and stairs, with visible brushstrokes and a slightly textured paper background.",
+    "Cover the stairs and the plaza with a layer of fresh white snow, and add snow caps to the top edges of the building and the lamp posts, changing the atmosphere to a cold winter morning.",
+    "Shift the scene to nighttime, illuminating the building facade with cool blue uplighting that contrasts with the warm interior lights, and add reflections of the building on a wet, rain-slicked plaza surface.",
+    "Add vertical gardens and hanging vines to the lower sections of the building walls and wrap greenery around the base of the lamp posts, integrating nature into the modern architecture.",
+    "Shift the overall color tone of the image to a monochromatic cyan-blue, making the reddish-brown building appear as a cold, metallic structure under a frozen, icy atmosphere.",
+    "Fill the lower foreground and the base of the stairs with a thick, low-lying morning mist, obscuring the bottom steps and creating a mysterious, ethereal atmosphere around the building's entrance.",
+    "Transform the overall aesthetic into a futuristic sci-fi setting by adding glowing neon strips along the edges of the stairs and building roofline, and replacing the sky with a starry nebula background."
+  ]
+}

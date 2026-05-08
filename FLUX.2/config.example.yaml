@@ -1,0 +1,28 @@
+model:
+  model_path: ./model
+  torch_dtype: bfloat16
+  device: cuda
+  local_files_only: false
+  enable_model_cpu_offload: false
+  low_cpu_mem_usage: true
+
+data:
+  input_path: photo
+  max_samples: 60
+  recursive: true
+  image_suffixes: [".jpg", ".jpeg", ".png", ".webp", ".bmp"]
+
+inference:
+  seed: 0
+  seed_stride: 1
+  height: null
+  width: null
+  guidance_scale: 1.0
+  num_inference_steps: 4
+  strength: 0.8
+  max_sequence_length: null
+
+output:
+  output_dir: results
+  run_name: null
+  save_round_images: true

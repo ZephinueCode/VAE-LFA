@@ -1,0 +1,28 @@
+{
+  "image": "003.jpg",
+  "category": "creature",
+  "cycle": [
+    "Change the man's hair color to bright platinum blonde.",
+    "Restore the man's hair color to its original dark brown.",
+    "Change the man's white t-shirt to a solid navy blue t-shirt.",
+    "Restore the man's t-shirt to its original white color.",
+    "Change the man's eye color to vivid emerald green.",
+    "Restore the man's eye color to its original natural brown.",
+    "Change the man's hair texture to be tightly curly.",
+    "Restore the man's hair texture to its original straight style.",
+    "Change the background wall color to a solid bright orange.",
+    "Restore the background wall color to its original light grey."
+  ],
+  "long_chain": [
+    "Change the plain background to a blurred urban street scene with tall buildings during the day.",
+    "Change the man's white t-shirt to a fitted black turtleneck sweater.",
+    "Apply soft, diffused overcast lighting to the man's face and the background street.",
+    "Add a light rain effect with visible droplets falling in the background and wetting the street.",
+    "Shift the overall color tone of the image to a cool, desaturated cyan and grey palette.",
+    "Add a black leather jacket worn open over the man's black turtleneck sweater.",
+    "Increase the depth of field blur on the background buildings to isolate the man further.",
+    "Change the background sky to a dusk setting with deep purple and orange hues.",
+    "Add glowing neon signs in the background reflecting on the wet pavement.",
+    "Transform the image into a high-contrast cyberpunk concept art style with sharp details."
+  ]
+}

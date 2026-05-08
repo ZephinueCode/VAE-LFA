@@ -1,0 +1,28 @@
+{
+  "image": "009.jpg",
+  "category": "architecture",
+  "cycle": [
+    "Hang a large red banner with yellow text across the central section of the building facade, just below the top floor windows.",
+    "Remove the large red banner with yellow text from the central section of the building facade.",
+    "Place a white radar dome on the flat roof of the left wing of the building.",
+    "Remove the white radar dome from the flat roof of the left wing of the building.",
+    "Attach a string of golden festive lights along the white columns of the ground floor entrance.",
+    "Remove the string of golden festive lights from the white columns of the ground floor entrance.",
+    "Mount a blue rectangular sign with white text on the upper right corner of the central building block.",
+    "Remove the blue rectangular sign with white text from the upper right corner of the central building block.",
+    "Install a black security camera on the leftmost white pillar of the main entrance portico.",
+    "Remove the black security camera from the leftmost white pillar of the main entrance portico."
+  ],
+  "long_chain": [
+    "Change the trees and grass to vibrant autumn colors with red, orange, and yellow leaves, and scatter fallen leaves across the paved plaza.",
+    "Shift the lighting to a dramatic golden-hour sunset with long shadows stretching across the lawn and a sky filled with orange and purple clouds.",
+    "Add a thick layer of low-hanging fog that obscures the base of the building and the distant trees, creating a mysterious atmosphere.",
+    "Change the time to night, illuminating the building with bright architectural floodlights and glowing windows against a dark sky.",
+    "Cover the entire scene in a thick layer of fresh white snow, including the roof, ledges, and ground, and add falling snowflakes.",
+    "Transform the foreground plaza into a calm, shallow reflecting pool that mirrors the illuminated snowy building.",
+    "Transform the image into a realistic charcoal sketch with high contrast, visible paper texture, and rough shading strokes.",
+    "Apply a traditional Chinese ink wash painting style with black ink and subtle color washes on rice paper texture to the scene.",
+    "Convert the image into a classical oil painting style with thick impasto brushstrokes and rich, deep colors.",
+    "Apply a futuristic cyberpunk aesthetic with neon blue and pink accent lighting on the building edges and holographic elements near the entrance."
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "image": "004.jpg",
+  "category": "scenery",
+  "cycle": [
+    "Add a red tractor driving through the center of the green rice field.",
+    "Remove the red tractor from the green rice field.",
+    "Place a yellow school bus on the paved road in the middle distance.",
+    "Remove the yellow school bus from the paved road.",
+    "Add a wooden scarecrow with a straw hat standing in the foreground rice paddies.",
+    "Remove the wooden scarecrow from the foreground rice paddies.",
+    "Add a wooden picnic table with a red checkered tablecloth on the grass near the road on the right side.",
+    "Remove the wooden picnic table with the red checkered tablecloth from the grass near the road on the right side.",
+    "Add a brown and white cow standing near the utility poles in the center mid-ground.",
+    "Remove the brown and white cow from near the utility poles."
+  ],
+  "long_chain": [
+    "Change the lighting to a warm golden hour sunset, casting long shadows from the utility poles and houses across the green rice field.",
+    "Transform the green rice field into a golden yellow harvest field and change the foliage on the hills to vibrant autumn orange and red colors.",
+    "Add a thick layer of white morning mist hovering over the rice field and obscuring the base of the distant mountains.",
+    "Shift the sky to a deep twilight gradient of purple and orange, dimming the overall brightness of the rural village scene.",
+    "Illuminate the windows of the houses with warm yellow light and turn on street lamps along the road.",
+    "Transform the sky into a deep dark blue night sky filled with bright stars and a glowing crescent moon.",
+    "Apply a vibrant anime art style to the night scene, enhancing the glow of the stars and house lights with a soft, painterly texture.",
+    "Cover the rice field, rooftops, and mountain peaks in a thick blanket of pristine white snow.",
+    "Change the lighting to a bright, crisp winter morning with a clear cyan-blue sky and sharp shadows cast on the snow.",
+    "Add blooming pink cherry blossom trees along the road and in the foreground, with petals scattering across the snowy ground."
+  ]
+}

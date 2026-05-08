@@ -1,0 +1,28 @@
+{
+  "image": "004.jpg",
+  "category": "architecture",
+  "cycle": [
+    "Change the main body color of the red Coca-Cola vending machine on the left to bright blue",
+    "Restore the main body color of the red Coca-Cola vending machine on the left to its original red",
+    "Change the top header panel of the white vending machine on the right to a solid neon green rectangle",
+    "Restore the top header panel of the white vending machine on the right to its original illustrated design",
+    "Change the red corrugated metal siding of the building background to a dark grey color",
+    "Revert the red corrugated metal siding of the building background to its original red color",
+    "Change the color of the trash can on the far left to bright yellow",
+    "Restore the color of the trash can on the far left to its original white",
+    "Change the orange curved stripe on the right side of the white vending machine to purple",
+    "Restore the orange curved stripe on the right side of the white vending machine to its original orange color"
+  ],
+  "long_chain": [
+    "Change the lighting to a warm, late afternoon golden hour, casting long shadows to the right of the red and white vending machines.",
+    "Add wet pavement to the ground, creating clear reflections of the red Coca-Cola and white vending machines on the asphalt.",
+    "Scatter dry orange and brown maple leaves on the wet ground around the base of the vending machines and trash cans.",
+    "Replace the red corrugated metal building background with a weathered grey concrete wall featuring a large industrial window.",
+    "Shift the time of day to twilight, darkening the ambient light while making the illuminated displays of the vending machines more prominent.",
+    "Enhance the internal glow of the vending machines so they act as the primary light source, casting a bright radiance onto the surrounding area.",
+    "Add a layer of low-hanging mist or fog around the base of the vending machines and the white trash cans.",
+    "Apply a cinematic color grade with deep shadows and high contrast, emphasizing teal shadows and orange highlights across the scene.",
+    "Add a dusting of fresh snow on top of the vending machines and trash cans, with gentle snowflakes falling through the air.",
+    "Transform the entire scene into a high-quality anime background art style, sharpening the details of the vending machines and enhancing the vibrant lighting effects."
+  ]
+}

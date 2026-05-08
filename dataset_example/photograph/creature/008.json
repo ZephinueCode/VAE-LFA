@@ -1,0 +1,28 @@
+{
+  "image": "008.jpg",
+  "category": "creature",
+  "cycle": [
+    "Put a red baseball cap on the man's head",
+    "Remove the red baseball cap from the man's head",
+    "Place a bright yellow scarf around the man's neck",
+    "Remove the bright yellow scarf from the man's neck",
+    "Put a silver wristwatch on the man's left wrist",
+    "Remove the silver wristwatch from the man's left wrist",
+    "Place a pair of black sunglasses in the man's shirt pocket",
+    "Remove the black sunglasses from the man's shirt pocket",
+    "Attach a blue bow tie to the man's collar",
+    "Remove the blue bow tie from the man's collar"
+  ],
+  "long_chain": [
+    "Replace the dark brown background with a blurred modern open-plan office featuring glass partitions and desks.",
+    "Add bright, soft daylight illumination coming from the upper left, casting gentle shadows on the man's face.",
+    "Change the man's olive green button-down shirt to a crisp white formal dress shirt.",
+    "Place a black lanyard with a visible ID badge around the man's neck, resting on the white shirt.",
+    "Insert a large whiteboard covered in technical diagrams and flowcharts into the background behind the man.",
+    "Apply a high-definition, sharp focus aesthetic typical of professional corporate photography to the man's face and hands.",
+    "Shift the overall color grading to a cool, clinical palette dominated by whites, silvers, and light blues.",
+    "Increase the depth of field effect so the office background and whiteboard become heavily blurred bokeh.",
+    "Add a blurred silver laptop computer on a desk surface in the immediate bottom foreground.",
+    "Apply a dark vignette effect to the four corners of the image to draw focus to the man's smiling face."
+  ]
+}

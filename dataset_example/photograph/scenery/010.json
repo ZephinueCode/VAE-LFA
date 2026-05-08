@@ -1,0 +1,28 @@
+{
+  "image": "010.jpg",
+  "category": "scenery",
+  "cycle": [
+    "Place a large, solitary oak tree on the upper left slope of the green hill.",
+    "Remove the large, solitary oak tree from the upper left slope of the green hill.",
+    "Add a rustic wooden split-rail fence running horizontally across the lower foreground of the grassy field.",
+    "Remove the rustic wooden split-rail fence from the lower foreground of the grassy field.",
+    "Place a traditional white windmill on the crest of the hill towards the right side.",
+    "Remove the traditional white windmill from the crest of the hill towards the right side.",
+    "Add a small flock of white sheep grazing in the lower center section of the green field.",
+    "Remove the small flock of white sheep grazing in the lower center section of the green field.",
+    "Place a small red barn with a white roof near the base of the hill on the far right.",
+    "Remove the small red barn with a white roof near the base of the hill on the far right."
+  ],
+  "long_chain": [
+    "Enhance the vibrancy of the green hill and blue sky by increasing color saturation and contrast for a hyper-realistic effect.",
+    "Add a narrow dirt trail winding from the bottom left foreground up towards the crest of the green hill.",
+    "Change the lighting to a warm sunset, casting long shadows across the grass and turning the sky into shades of orange and violet.",
+    "Replace the grass texture with a field of tall yellow wildflowers swaying in the wind, keeping the hill's shape.",
+    "Transform the sky into a dramatic stormy atmosphere with dark, heavy clouds and rays of light piercing through.",
+    "Apply a textured oil painting style to the landscape, emphasizing brushstrokes on the hill and clouds.",
+    "Shift the season to autumn by changing the wildflowers and grass to hues of gold, orange, and brown.",
+    "Add a soft, white fog rolling in at the base of the hill and diffusing the sunlight.",
+    "Change the time of day to night, replacing the sky with a starry Milky Way and casting a cool blue moonlight over the hill.",
+    "Cover the entire hill with a thick blanket of fresh white snow, creating a peaceful winter night scene."
+  ]
+}

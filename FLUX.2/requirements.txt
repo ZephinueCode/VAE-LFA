@@ -1,0 +1,14 @@
+torch==2.8.0
+torchvision==0.23.0
+diffusers
+transformers
+accelerate
+safetensors
+huggingface_hub
+Pillow
+numpy
+matplotlib
+PyYAML
+tqdm
+seaborn
+lpips

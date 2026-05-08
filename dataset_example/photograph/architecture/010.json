@@ -1,0 +1,28 @@
+{
+  "image": "010.jpg",
+  "category": "architecture",
+  "cycle": [
+    "Place three large red flags on the ridge of the traditional roof.",
+    "Remove the three large red flags from the ridge of the traditional roof.",
+    "Hang two long vertical banners with gold text on the pillars flanking the main entrance.",
+    "Remove the two long vertical banners with gold text from the pillars flanking the main entrance.",
+    "Install a string of warm yellow lights along the edges of the curved roof eaves.",
+    "Remove the string of warm yellow lights from the edges of the curved roof eaves.",
+    "Place two large bronze vases on the platform near the main entrance doors.",
+    "Remove the two large bronze vases from the platform near the main entrance doors.",
+    "Add red lanterns hanging from the corners of the traditional roof.",
+    "Remove the red lanterns from the corners of the traditional roof."
+  ],
+  "long_chain": [
+    "Replace the traditional building with a towering cyberpunk skyscraper covered in glowing neon signs and holographic advertisements.",
+    "Change the clear sky to a smog-filled, orange-hued polluted atmosphere with heavy, swirling clouds.",
+    "Add numerous flying cars and surveillance drones zooming past the skyscraper at various heights.",
+    "Transform the paved ground and lawn into a wet, reflective asphalt street with deep puddles reflecting the neon lights.",
+    "Add a layer of heavy rain and digital glitch artifacts distorting parts of the skyscraper.",
+    "Change the architectural style of the skyscraper to biomechanical, featuring organic curves mixed with dark metal plating.",
+    "Replace the sky background with a cascading digital matrix of green code raining down vertically.",
+    "Turn the entire scene into a wireframe 3D model visualization with white grid lines overlaying the structures.",
+    "Apply a vaporwave aesthetic to the wireframe scene with pastel pink and blue gradients and a retro sun element in the sky.",
+    "Transform the ground into a grid of infinite mirrors reflecting a starry galaxy sky instead of the building."
+  ]
+}

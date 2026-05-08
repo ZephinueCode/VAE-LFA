@@ -1,0 +1,28 @@
+{
+  "image": "007.jpg",
+  "category": "scenery",
+  "cycle": [
+    "Change the green leaves in the pile to a vibrant magenta color.",
+    "Restore the vibrant magenta leaves to their original green color.",
+    "Apply a glossy, wet texture to all the dried leaves on the ground.",
+    "Remove the glossy, wet texture and restore the leaves to their original dry, matte finish.",
+    "Change the grey stone pavement to a smooth, white marble surface.",
+    "Revert the white marble surface back to the original rough grey stone pavement.",
+    "Change the yellow leaves to a deep, rich purple.",
+    "Restore the deep purple leaves to their original yellow color.",
+    "Transform the brown, withered leaves into fresh, bright green leaves.",
+    "Restore the fresh bright green leaves to their original brown, withered state."
+  ],
+  "long_chain": [
+    "Remove the fallen leaves and stone pavement, replacing the ground with a wet asphalt road reflecting distant city lights.",
+    "Add towering skyscrapers with bright neon signs in the background, creating a dense cyberpunk cityscape behind the road.",
+    "Change the time of day to midnight with heavy rain falling on the cyberpunk street, creating ripples in the puddles.",
+    "Transform the wet asphalt road into a flowing river of liquid mercury cutting through the futuristic city.",
+    "Replace the skyscrapers with giant, organic mushroom structures glowing with bioluminescent blue spots.",
+    "Change the overall color palette of the mushroom forest scene to deep indigo and electric violet tones.",
+    "Add large, translucent jellyfish-like creatures drifting through the humid air above the glowing mushrooms.",
+    "Transform the ground beneath the mushrooms into a grid of transparent hexagonal glass tiles revealing a starry void underneath.",
+    "Replace the sky above the scene with a view of outer space featuring a giant ringed planet and nebulae.",
+    "Apply a soft watercolor painting style to the entire space-mushroom scene, blending the edges and enhancing the pastel colors."
+  ]
+}

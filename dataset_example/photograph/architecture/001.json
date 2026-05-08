@@ -1,0 +1,28 @@
+{
+  "image": "001.jpg",
+  "category": "architecture",
+  "cycle": [
+    "Attach a large red flag to the very top golden spire of the tower",
+    "Remove the large red flag from the very top golden spire of the tower",
+    "Wrap bright yellow festive lights around the ornate golden railings below the roof",
+    "Remove the bright yellow festive lights from the ornate golden railings below the roof",
+    "Hang a giant green banner draped across the stone section below the clocks",
+    "Remove the giant green banner draped across the stone section below the clocks",
+    "Place metal scaffolding around the lower architectural details of the tower",
+    "Remove the metal scaffolding from the lower architectural details of the tower",
+    "Tie a bunch of pink balloons to the stone railing near the clock faces",
+    "Remove the bunch of pink balloons from the stone railing near the clock faces"
+  ],
+  "long_chain": [
+    "Change the lighting to a dramatic sunset, casting warm orange and pink hues across the sky and the stone surface of the Elizabeth Tower.",
+    "Add dark, stormy clouds gathering around the spire of the tower, contrasting with the warm sunset light.",
+    "Introduce heavy rain falling across the scene, creating wet reflections on the clock faces and the stone ledges.",
+    "Transition the time to night, illuminating the clock faces with a bright blue glow and adding spotlights at the base of the tower.",
+    "Apply a watercolor painting style to the image, softening the edges of the tower and blending the night lights into the paper texture.",
+    "Transform the tower's material to look like it is made of intricate clockwork gears and brass mechanisms, while maintaining the original silhouette.",
+    "Change the background to a deep space nebula with swirling purple and blue gases, making the clockwork tower appear to float in the cosmos.",
+    "Add glowing neon cyan lines tracing the architectural edges of the clockwork tower for a cyberpunk aesthetic.",
+    "Surround the tower with floating holographic data screens and digital particles in the space background.",
+    "Apply a low-poly 3D render style to the entire scene, simplifying the geometry of the clockwork tower and the holographic elements into faceted shapes."
+  ]
+}

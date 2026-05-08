@@ -1,0 +1,28 @@
+{
+  "image": "002.jpg",
+  "category": "creature",
+  "cycle": [
+    "Change the woman's hair color to platinum blonde",
+    "Restore the woman's hair color to its original reddish-blonde shade",
+    "Change the woman's eye color to bright emerald green",
+    "Revert the woman's eye color to its original natural hue",
+    "Change the woman's coat color to bright red",
+    "Revert the woman's coat to its original black color",
+    "Change the woman's lip color to dark purple",
+    "Restore the woman's lip color to its natural pink tone",
+    "Change the woman's facial expression to a serious frown",
+    "Revert the woman's facial expression to the original subtle smile"
+  ],
+  "long_chain": [
+    "Change the background to a cobblestone street in a historic European district lined with brick buildings and autumn trees.",
+    "Apply warm golden-hour sunlight coming from the left, illuminating the woman's face and creating soft shadows on the right side.",
+    "Add falling red and orange maple leaves swirling in the air around the woman and scattered on the ground.",
+    "Change the woman's black coat to a classic beige trench coat and add a red beret on her head.",
+    "Transform the entire image into a watercolor painting style with soft edges and bleeding colors, while preserving the woman's facial details.",
+    "Shift the overall color tone to a vintage pastel palette with muted pinks and soft blues.",
+    "Add a light mist or fog settling over the cobblestone street in the background to create a mysterious atmosphere.",
+    "Introduce vintage gas street lamps in the background that are lit, casting a warm yellow glow on the wet pavement.",
+    "Apply a cinematic widescreen crop with black bars at the top and bottom, and enhance the contrast for a dramatic movie look.",
+    "Add a subtle film grain texture and a slight vignette around the edges to complete the retro cinematic aesthetic."
+  ]
+}

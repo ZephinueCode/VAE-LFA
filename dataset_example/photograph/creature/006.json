@@ -1,0 +1,28 @@
+{
+  "image": "006.jpg",
+  "category": "creature",
+  "cycle": [
+    "Add a pair of round, wire-rimmed glasses on the man's face.",
+    "Remove the round, wire-rimmed glasses from the man's face.",
+    "Place a dark fedora hat on the man's head.",
+    "Remove the dark fedora hat from the man's head.",
+    "Add a red silk scarf around the man's neck.",
+    "Remove the red silk scarf from the man's neck.",
+    "Attach a small silver hoop earring to the man's visible ear.",
+    "Remove the small silver hoop earring from the man's visible ear.",
+    "Pin a gold star-shaped badge onto the man's left shoulder lapel.",
+    "Remove the gold star-shaped badge from the man's left shoulder lapel."
+  ],
+  "long_chain": [
+    "Illuminate the man's profile with a soft, directional key light from the upper left, revealing skin texture and stubble details against a solid black background.",
+    "Apply a warm, golden-hour color grade to the man's skin, giving it a rich, amber hue while keeping the background dark and shadowy.",
+    "Replace the black background with a blurred, out-of-focus library interior featuring warm, wooden bookshelf tones and soft ambient light.",
+    "Add floating dust particles illuminated by the light beam hitting the man's face, enhancing the atmospheric depth of the library setting.",
+    "Transform the image into a classic charcoal drawing style, preserving the man's facial features and the library background but rendering them with sketchy, textured strokes.",
+    "Add a pair of vintage round spectacles onto the man's face, rendered in the same charcoal drawing style with thick black frames.",
+    "Shift the overall lighting to a cool, moonlight blue tone, casting deep blue shadows across the charcoal drawing of the man and the library background.",
+    "Change the library background to a starry night sky visible through a large, arched window behind the man, maintaining the charcoal art style.",
+    "Add a subtle double exposure effect, blending a faint, translucent image of a wolf's face into the shadows of the man's profile and neck area.",
+    "Apply a vintage, yellowed paper texture overlay to the entire composition, making the starry night, the wolf double exposure, and the charcoal man look like an aged illustration on parchment."
+  ]
+}

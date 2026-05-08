@@ -1,0 +1,28 @@
+{
+  "image": "001.jpg",
+  "category": "scenery",
+  "cycle": [
+    "Add a small wooden fishing boat with a white sail on the left side of the water.",
+    "Remove the small wooden fishing boat with a white sail from the left side of the water.",
+    "Add a flock of five white seagulls flying in the upper right corner of the sky.",
+    "Remove the flock of five white seagulls from the upper right corner of the sky.",
+    "Add a large, fluffy white cumulus cloud in the upper left area of the sky.",
+    "Remove the large, fluffy white cumulus cloud from the upper left area of the sky.",
+    "Add a bright red hot air balloon floating in the sky to the right of the sun.",
+    "Remove the bright red hot air balloon from the sky to the right of the sun.",
+    "Add a tall, red-and-white striped lighthouse standing on the far right edge of the shoreline silhouette.",
+    "Remove the tall, red-and-white striped lighthouse from the far right edge of the shoreline silhouette."
+  ],
+  "long_chain": [
+    "Intensify the sunset colors to deep crimson and vibrant orange, making the sun's reflection on the water brighter and more golden.",
+    "Add scattered cumulus clouds in the sky illuminated by the setting sun, adding depth and texture to the upper atmosphere.",
+    "Enhance the details of the shoreline silhouette, revealing the distinct shapes of the buildings and construction machinery more clearly against the light.",
+    "Transform the water surface to be smoother and glass-like, elongating the sun's reflection into a solid, shimmering pillar of light.",
+    "Introduce a flock of seagulls flying low over the water in the middle ground, adding a sense of movement and life to the scene.",
+    "Apply a vintage film aesthetic with warm grain, a slight vignette, and soft focus to give the seascape a nostalgic, retro feel.",
+    "Add a layer of low-lying sea mist hovering just above the water, partially obscuring the base of the distant shore and softening the horizon line.",
+    "Shift the shadow colors in the water and lower sky to a cool teal and cyan tone, creating a striking complementary contrast with the warm orange sun.",
+    "Add a weathered wooden pier structure in the bottom left foreground, extending diagonally into the water to provide a leading line.",
+    "Populate the upper sky with a scattering of faint stars, suggesting the transition from sunset to early night while the sun remains just above the horizon."
+  ]
+}

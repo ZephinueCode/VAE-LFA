@@ -1,0 +1,28 @@
+{
+  "image": "009.jpg",
+  "category": "scenery",
+  "cycle": [
+    "Change the green aurora borealis in the sky to a vibrant purple and pink color.",
+    "Revert the aurora borealis in the sky to its original green color.",
+    "Change the rock texture of the large mountain in the background to reddish sandstone.",
+    "Restore the rock texture of the large mountain in the background to its original dark grey color.",
+    "Transform the flowing blue water in the river and waterfall into solid white ice.",
+    "Melt the solid white ice in the river and waterfall back into flowing blue liquid water.",
+    "Change the white snow covering the foreground ground to a light blue tint.",
+    "Revert the light blue tinted snow covering the foreground ground to its original white color.",
+    "Change the weathered brown wooden fence on the left cliff to a bright red painted wood.",
+    "Restore the bright red painted wood fence on the left cliff to its original weathered brown color."
+  ],
+  "long_chain": [
+    "Change the sky to a deep twilight blue with the aurora fading into a soft purple glow, keeping the snow-covered ground and the conical mountain.",
+    "Add a bright full moon rising behind the mountain, casting long, sharp shadows on the snow and illuminating the waterfall with a silvery glow.",
+    "Add a gentle snowfall, with snowflakes visible in the foreground near the waterfall and accumulating on the dark rocks.",
+    "Transform the image into an oil painting style with thick, visible brushstrokes, emphasizing the texture of the mountain and the flow of the water.",
+    "Shift the overall color tone to a warm, golden sunrise palette, replacing the green aurora with pink and orange clouds, while keeping the mountain and waterfall structure.",
+    "Melt the snow on the ground to reveal green moss and grass, turning the scene into a lush spring landscape while keeping the mountain shape and waterfall flow.",
+    "Add a thick, low-lying mist rising from the river and surrounding the base of the mountain, softening the details of the foreground rocks.",
+    "Transform the scene into a watercolor illustration style with soft, bleeding edges and a pastel color palette, maintaining the composition of the mountain and waterfall.",
+    "Add a dramatic lightning strike in the distance behind the mountain, illuminating the clouds with a stark white light and casting a high-contrast shadow over the landscape.",
+    "Transform the sky into a surreal fantasy cosmos with swirling nebulae in violet and gold, and make the water in the river glow with bioluminescent blue light, keeping the mountain silhouette distinct."
+  ]
+}

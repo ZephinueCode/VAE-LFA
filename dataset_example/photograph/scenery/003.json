@@ -1,0 +1,28 @@
+{
+  "image": "003.jpg",
+  "category": "scenery",
+  "cycle": [
+    "Add a large red flag on the roof of the tall white building in the center right of the village.",
+    "Remove the large red flag from the roof of the tall white building in the center right of the village.",
+    "Add dark grey solar panels on the roofs of the cluster of white houses in the lower middle area.",
+    "Remove the dark grey solar panels from the roofs of the cluster of white houses in the lower middle area.",
+    "Add wisps of white smoke rising from the chimneys of the houses on the left side of the village.",
+    "Remove the wisps of white smoke rising from the chimneys of the houses on the left side of the village.",
+    "Add a bright yellow construction excavator parked on the paved road near the bottom left curve.",
+    "Remove the bright yellow construction excavator from the paved road near the bottom left curve.",
+    "Add a tall wooden watchtower on the green hill in the background above the village.",
+    "Remove the tall wooden watchtower from the green hill in the background above the village."
+  ],
+  "long_chain": [
+    "Change the lush green vegetation of the hills and terraced fields to vibrant autumn colors with orange, yellow, and red foliage.",
+    "Apply golden-hour sunset lighting to the village, casting long warm shadows and illuminating the white walls with a soft orange glow.",
+    "Add a layer of soft morning mist settling in the valley and wrapping around the base of the hills.",
+    "Transform the entire image into a watercolor painting style, preserving the layout of the village and fields but softening the edges.",
+    "Shift the time of day to night, illuminating the scene with cool blue moonlight and revealing a starry sky.",
+    "Cover the rooftops of the village houses and the terraced fields with a layer of fresh white snow.",
+    "Add warm glowing lights inside the windows of the village houses and string lights along the winding road.",
+    "Change the night sky to feature a vibrant green and purple aurora borealis.",
+    "Apply a cyberpunk aesthetic by adding neon pink and blue lighting accents to the village buildings and road.",
+    "Transform the surrounding forest trees into giant, glowing bioluminescent plants while keeping the village layout intact."
+  ]
+}

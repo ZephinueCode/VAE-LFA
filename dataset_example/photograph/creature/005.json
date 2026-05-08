@@ -1,0 +1,28 @@
+{
+  "image": "005.jpg",
+  "category": "creature",
+  "cycle": [
+    "Place a red knitted beanie on the woman's head.",
+    "Remove the red knitted beanie from the woman's head.",
+    "Add black sunglasses to the woman's eyes.",
+    "Remove the black sunglasses from the woman's eyes.",
+    "Put a pearl necklace around the woman's neck.",
+    "Remove the pearl necklace from the woman's neck.",
+    "Add diamond stud earrings to the woman's ears.",
+    "Remove the diamond stud earrings from the woman's ears.",
+    "Place a crown of white daisies on the woman's head.",
+    "Remove the crown of white daisies from the woman's head."
+  ],
+  "long_chain": [
+    "Change the blurry stone background to a lush, green forest with sunlight filtering through the leaves behind the woman.",
+    "Shift the lighting to a warm golden-hour sunset, casting long shadows and highlighting the woman's reddish hair with orange tones.",
+    "Add falling autumn leaves in shades of red and gold around the woman and change the forest background to match an autumn color palette.",
+    "Apply a vintage film aesthetic with subtle grain and a slight teal-and-orange color grade to the entire scene.",
+    "Introduce soft, glowing bokeh lights in the background forest, resembling fireflies or distant lanterns.",
+    "Transform the environment into a winter scene by covering the ground in white snow and changing the trees to bare, snow-dusted branches.",
+    "Change the overall lighting to a cool, moonlit blue hue while maintaining the warm illumination on the woman's face.",
+    "Add a gentle snowfall effect with visible snowflakes drifting down in front of and behind the woman.",
+    "Render the image in an impressionist oil painting style, using visible brushstrokes for the background and snow while keeping the woman's facial features recognizable.",
+    "Add a soft, white vignette border around the edges and increase the overall exposure to create a bright, dreamy winter atmosphere."
+  ]
+}

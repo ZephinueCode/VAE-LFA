@@ -1,0 +1,28 @@
+{
+  "image": "007.jpg",
+  "category": "architecture",
+  "cycle": [
+    "Place a bright orange basketball resting on the rim of the hoop.",
+    "Remove the bright orange basketball from the rim of the hoop.",
+    "Drape a blue checkered blanket over the white pillow.",
+    "Remove the blue checkered blanket from the white pillow.",
+    "Attach a small silver roof rack to the top of the blue toy car.",
+    "Remove the small silver roof rack from the top of the blue toy car.",
+    "Wrap a red ribbon around the green pole of the basketball hoop.",
+    "Remove the red ribbon from the green pole of the basketball hoop.",
+    "Place a pair of white sneakers next to the mattress on the court.",
+    "Remove the pair of white sneakers from next to the mattress on the court."
+  ],
+  "long_chain": [
+    "Change the lighting of the scene from night to a bright, overcast winter morning, fully illuminating the basketball court and the surrounding buildings.",
+    "Cover the concrete basketball court surface with a thick layer of fresh, white snow, obscuring the court lines but keeping the central white structure prominent.",
+    "Transform the dark background apartment buildings into a row of cozy, snow-covered alpine chalets with warm light glowing from the windows.",
+    "Reshape the white foam mattress and pillow in the center into a sculpture made of large, smooth blocks of translucent blue ice.",
+    "Replace the small blue toy car next to the ice structure with a miniature red snowmobile.",
+    "Add a gentle, continuous snowfall with visible white flakes drifting down across the entire scene.",
+    "Change the color of the basketball hoop pole and backboard support from green to a rustic, dark brown wood texture.",
+    "Introduce a warm, golden-hour sunset light source from the right side, casting long, dramatic shadows from the basketball hoop and the ice blocks.",
+    "Add a layer of low-hanging, misty fog swirling around the base of the ice blocks and the basketball hoop.",
+    "Apply a cinematic color grade with high contrast, emphasizing cool blue shadows and warm orange highlights on the snow and buildings."
+  ]
+}

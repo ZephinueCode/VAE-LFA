@@ -1,0 +1,28 @@
+{
+  "image": "005.jpg",
+  "category": "scenery",
+  "cycle": [
+    "Add a white satellite dish on the roof of the blue shed.",
+    "Remove the white satellite dish from the roof of the blue shed.",
+    "Install a black chimney pipe on the roof of the blue shed.",
+    "Remove the black chimney pipe from the roof of the blue shed.",
+    "Lean a silver aluminum ladder against the front wall of the blue shed.",
+    "Remove the silver aluminum ladder from the front wall of the blue shed.",
+    "Hang a set of copper wind chimes from the front corner of the shed's roof.",
+    "Remove the copper wind chimes from the front corner of the shed's roof.",
+    "Place a terracotta flower pot with red flowers next to the white door of the shed.",
+    "Remove the terracotta flower pot with red flowers from next to the white door of the shed."
+  ],
+  "long_chain": [
+    "Transform the surrounding forest and foreground vegetation into vibrant autumn colors with shades of orange, red, and gold, while keeping the blue rusty shed and distant mountains clearly visible.",
+    "Apply warm golden-hour sunlight that illuminates the rusted texture of the blue shed and casts long, dramatic shadows across the garden path.",
+    "Add a gentle breeze blowing fallen autumn leaves across the foreground and swirling around the base of the blue shed.",
+    "Change the season to winter by covering the ground, the garden plants, and the distant mountains in a thick layer of fresh white snow, leaving the blue shed standing out against the white.",
+    "Accumulate heavy snow on the roof and window sills of the blue rusty shed, making the structure look weathered by the winter elements.",
+    "Shift the time of day to deep twilight, turning the sky a dark indigo blue and casting a cool, soft light over the snowy landscape.",
+    "Replace the twilight sky with a clear night sky filled with bright stars and a crescent moon, adding moonlight reflections on the snow patches.",
+    "Introduce a vibrant aurora borealis with green and purple ribbons of light stretching across the night sky above the mountain range.",
+    "Transform the entire scene into a textured oil painting style, emphasizing thick brushstrokes on the blue shed and the snowy trees while maintaining the night composition.",
+    "Add a warm, magical glow emanating from the windows of the blue shed and faint bioluminescent lights in the snow, creating a cozy fantasy atmosphere within the painting style."
+  ]
+}

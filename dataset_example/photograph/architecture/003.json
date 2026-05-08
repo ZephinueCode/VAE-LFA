@@ -1,0 +1,28 @@
+{
+  "image": "003.jpg",
+  "category": "architecture",
+  "cycle": [
+    "Add a large red flag flying from the antenna on top of the tall white tower with the spherical top.",
+    "Remove the large red flag from the antenna on top of the tall white tower with the spherical top.",
+    "Place a giant yellow beach ball in the middle of the green soccer field in the foreground.",
+    "Remove the giant yellow beach ball from the middle of the green soccer field in the foreground.",
+    "Attach a large horizontal banner with the text 'WELCOME' to the facade of the tall beige residential building in the center.",
+    "Remove the large horizontal banner from the facade of the tall beige residential building in the center.",
+    "Add a circular helipad marked with a white 'H' on the green roof of the building in the bottom right corner.",
+    "Remove the circular helipad from the green roof of the building in the bottom right corner.",
+    "Install a large satellite dish on the roof of the low building with the grey roof in the bottom left foreground.",
+    "Remove the large satellite dish from the roof of the low building with the grey roof in the bottom left foreground."
+  ],
+  "long_chain": [
+    "Change the lighting to a warm golden hour sunset, casting long shadows from the tall buildings across the sports field in the foreground.",
+    "Replace the clear blue sky with dramatic, fluffy white cumulus clouds illuminated by the orange and pink hues of the setting sun.",
+    "Change the foliage of the trees in the foreground and around the sports field to vibrant autumn colors of orange, red, and yellow.",
+    "Add a soft, low-hanging mist or fog layer around the base of the buildings and over the lower residential areas in the distance.",
+    "Shift the time of day to twilight, turning on warm yellow lights in the windows of the high-rise buildings and streetlights around the running track.",
+    "Add a light dusting of snow on the rooftops, the red running track, and the green soccer field, contrasting with the remaining autumn trees.",
+    "Apply a cool, teal and orange cinematic color grade to the entire image, enhancing the contrast between the dark shadows and the building lights.",
+    "Add glowing neon holographic billboards and advertisements in cyan and magenta on the sides of the tall white tower and the blue glass skyscraper.",
+    "Apply a strong tilt-shift blur effect to the top sky and bottom foreground edges of the image, making the cityscape appear like a miniature scale model.",
+    "Transform the entire scene into a textured oil painting style with visible brushstrokes, preserving the miniature model perspective and the neon lighting details."
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "image": "010.jpg",
+  "category": "creature",
+  "cycle": [
+    "Change the man's hair color to jet black.",
+    "Restore the man's hair color to its original grey.",
+    "Change the man's suit jacket to a navy blue color.",
+    "Revert the man's suit jacket to its original black color.",
+    "Change the man's tie to a solid red silk tie.",
+    "Restore the man's tie to its original black and white patterned design.",
+    "Change the man's shirt to a crisp white color.",
+    "Revert the man's shirt to its original light blue color.",
+    "Change the man's hair texture to be straight and sleek.",
+    "Restore the man's hair texture to its original short and curly style."
+  ],
+  "long_chain": [
+    "Replace the blurry background with a sharp image of the South African flag waving against a blue sky.",
+    "Adjust the lighting on Nelson Mandela to be bright and sunny, matching the outdoor background.",
+    "Apply a charcoal sketch effect to the entire image, rendering Nelson Mandela and the flag in black and white strokes.",
+    "Add realistic color to the charcoal sketch, restoring the natural skin tones of Nelson Mandela and the vibrant colors of the South African flag.",
+    "Transform the sketch style into a textured oil painting style with visible brushstrokes.",
+    "Enclose the oil painting of Nelson Mandela in a thick, ornate gold frame.",
+    "Place the framed painting on a white wall inside a modern art gallery.",
+    "Add a small silver placard on the wall next to the painting with text describing Nelson Mandela.",
+    "Change the gallery lighting to dim, warm spotlights focused specifically on the painting.",
+    "Add a faint reflection of a person looking at the painting on the surface of the frame's glass."
+  ]
+}

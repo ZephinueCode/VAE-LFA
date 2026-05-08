@@ -1,0 +1,28 @@
+{
+  "image": "007.jpg",
+  "category": "creature",
+  "cycle": [
+    "Change the man's hair color to jet black.",
+    "Restore the man's hair color to its original grey.",
+    "Change the man's shirt color to bright red.",
+    "Restore the man's shirt color to its original grey.",
+    "Remove the man's beard and mustache completely to make him clean-shaven.",
+    "Restore the man's original grey beard and mustache.",
+    "Change the man's eye color to bright blue.",
+    "Restore the man's eye color to its original dark color.",
+    "Change the man's shirt pattern to vertical blue stripes.",
+    "Restore the man's shirt to its original subtle grey pattern."
+  ],
+  "long_chain": [
+    "Apply dramatic chiaroscuro lighting with a strong warm key light from the top left and deep shadows on the right side of the man.",
+    "Replace the plain grey background with a dark, red brick wall texture, illuminated by the same warm key light.",
+    "Add a layer of thick, low-hanging fog obscuring the bottom of the man's torso and the lower part of the brick wall.",
+    "Shift the overall color grading to a high-contrast teal and orange cinematic look, making shadows teal and skin tones orange.",
+    "Replace the brick wall background with a blurred night cityscape featuring out-of-focus bokeh lights in teal and orange hues.",
+    "Add bright neon pink and blue rim lighting outlining the man's hair and shoulders to enhance the cyberpunk atmosphere.",
+    "Overlay a digital glitch effect with horizontal scanlines and RGB color separation channels across the entire image.",
+    "Change the texture of the man's shirt to a reflective, liquid chrome material while preserving the original folds and button placement.",
+    "Shift the camera angle to a slightly low-angle perspective, looking up at the man to make the figure appear taller and more dominant.",
+    "Apply a final vaporwave aesthetic filter with a gradient sky background of purple and pink and a retro wireframe grid on the floor."
+  ]
+}

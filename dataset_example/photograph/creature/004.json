@@ -1,0 +1,28 @@
+{
+  "image": "004.jpg",
+  "category": "creature",
+  "cycle": [
+    "Add a string of white pearls around the woman's neck.",
+    "Remove the string of white pearls from the woman's neck.",
+    "Place a pair of thin-rimmed round glasses on the woman's face.",
+    "Remove the thin-rimmed round glasses from the woman's face.",
+    "Attach a gold floral brooch to the woman's scarf on her left chest.",
+    "Remove the gold floral brooch from the woman's scarf on her left chest.",
+    "Put a dark wide-brimmed hat on the woman's head.",
+    "Remove the dark wide-brimmed hat from the woman's head.",
+    "Add small pearl stud earrings to the woman's ears.",
+    "Remove the small pearl stud earrings from the woman's ears."
+  ],
+  "long_chain": [
+    "Colorize the black and white portrait, rendering the woman's skin in natural warm tones, her dress in deep indigo blue, and the background foliage in lush greens.",
+    "Illuminate the scene with bright, natural daylight, casting soft highlights on the woman's forehead and cheekbones while brightening the background flowers.",
+    "Replace the blurry background with a sharp, detailed garden setting filled with blooming white chrysanthemums and dark green leaves.",
+    "Transform the season to late autumn, turning the background leaves into shades of rust, orange, and brown, and scattering fallen leaves on the ground.",
+    "Apply a classic oil painting texture to the image, giving the woman's face and clothing visible canvas grain and thick brushstrokes.",
+    "Change the embroidery on the woman's chest to intricate gold thread patterns that shimmer slightly against the dark fabric.",
+    "Add a gentle wind effect, blowing the woman's hair back slightly and causing the autumn leaves in the background to swirl.",
+    "Shift the time of day to dusk, bathing the scene in a soft purple and orange gradient sky light that reflects on the woman's face.",
+    "Enhance the depth of field to create a strong bokeh effect, blurring the background garden significantly while keeping the woman in sharp focus.",
+    "Overlay a subtle vintage film grain and a warm sepia tone to unify the colors and give the final image an aged, historical masterpiece appearance."
+  ]
+}

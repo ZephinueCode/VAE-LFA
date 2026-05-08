@@ -1,0 +1,28 @@
+{
+  "image": "008.jpg",
+  "category": "scenery",
+  "cycle": [
+    "Change the sky color to a deep violet shade.",
+    "Restore the sky color to its original dark blue night tone.",
+    "Change the city street lights and building windows to emit a bright neon orange glow.",
+    "Restore the city lights to their original mixed white and yellow appearance.",
+    "Change the color of the harbor water to a luminous turquoise.",
+    "Restore the harbor water to its original dark, reflective night color.",
+    "Change the clouds in the sky to a bright silver color.",
+    "Restore the clouds to their original dark blue-grey texture.",
+    "Shift the overall color balance of the image to a cool, icy blue tone.",
+    "Restore the overall color balance to the original warm night tones."
+  ],
+  "long_chain": [
+    "Replace the cloudy sky with a clear, deep blue night sky filled with bright stars and the Milky Way galaxy arching over the mountains.",
+    "Add a thick layer of white fog rolling in from the ocean on the right side, partially obscuring the distant coastline.",
+    "Change the warm orange city lights to a futuristic palette of electric blue and magenta neon lights.",
+    "Add a display of red and gold fireworks bursting in the sky above the central city district.",
+    "Cover the dark foreground vegetation and the roofs of the buildings with a layer of fresh white snow.",
+    "Transform the vehicle lights on the winding coastal roads into long-exposure streaks of continuous red and white light.",
+    "Make the dark water in the bay highly reflective, creating a mirror image of the city lights on the water surface.",
+    "Add a massive, bright full moon rising behind the distant mountains, illuminating the clouds with a silver glow.",
+    "Apply a tilt-shift effect that blurs the top sky and bottom foreground, making the city look like a miniature scale model.",
+    "Transform the image into a vibrant watercolor painting style with soft edges and bleeding colors, keeping the city layout intact."
+  ]
+}
