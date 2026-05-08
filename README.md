@@ -1,5 +1,5 @@
 # VAE-LFA: Plug-and-Play Low Frequency Alignment for Enhanced Multi-Turn Editing
-
+#cece一定能中稿！！！
 
 Official implementation of **VAE-LFA**, a training-free, plug-and-play method that suppresses progressive semantic drift in multi-turn diffusion transformer (DiT) image editing by aligning low-frequency statistics in VAE latent space.
 
