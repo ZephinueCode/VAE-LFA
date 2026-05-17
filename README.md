@@ -175,4 +175,14 @@ Each image is paired with a JSON file containing `cycle` and `long_chain` prompt
 
 ## Citation
 
-Paper will be released on Arxiv soon.
+``` text
+@misc{wang2026diteditorsdriftplugandplay,
+      title={Why Do DiT Editors Drift? Plug-and-Play Low Frequency Alignment in VAE Latent Space}, 
+      author={Xiaoce Wang and Sifan Zhou and Kaifei Wang and Leli Xu and Xuerui Qiu and Tao He and Ming Li},
+      year={2026},
+      eprint={2605.08250},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2605.08250}, 
+}
+```
