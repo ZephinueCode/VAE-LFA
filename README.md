@@ -6,6 +6,7 @@ Official implementation of **VAE-LFA**, a training-free, plug-and-play method th
 
 ## Updates
 
+- Sept.25 2026: 🎊Our paper is accepted by **NeurIPS 2026**!🎊 
 - May.12 2026: Our paper is released on [Arxiv](https://arxiv.org/abs/2605.08250)!
 - May.8 2026: Code base is released.
 
